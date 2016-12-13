@@ -31,6 +31,8 @@ vendor/*
 webpack-assets.json
 webpack-dlls.json
 webpack-stats.json
+webpack-externals.json
+webpack-vendors.json
 web/bundles/*
 web/css/*
 web/dist
